@@ -16,17 +16,17 @@ body {
 .logo-scnd {
     color: #2e2f42;
 }
-.header-nav-item1 {
+.header-nav-a {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.header-nav-item1:hover {
+.header-nav-a:hover {
     color: #404bbf;
 }
-.header-nav-item1:focus {
+.header-nav-a:focus {
     color: #404bbf;
 }
 
@@ -35,26 +35,26 @@ body {
     font-style: normal;
 }
 
-.header-adrs-list-item1 {
+.header-adrs-list-link {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
 
-.header-adrs-list-item1:hover {
+.header-adrs-list-link:hover {
     color: #404bbf;
 }
 
-.header-adrs-list-item1:focus {
+.header-adrs-list-link:focus {
     color: #404bbf;
 }
 
-.section1 {
+.section-one {
     color: #2e2f42;
 }
 
-.section1-h1 {
+.section-one-h1 {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -62,7 +62,7 @@ body {
     color: #ffffff;
 }
 
-.section1-button {
+.section-one-button {
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -73,15 +73,15 @@ body {
     cursor: pointer;
 }
 
-.section1-button:hover {
+.section-one-button:hover {
     color: #404BBF;
 }
 
-.section1-button:focus {
+.section-one-button:focus {
     color: #404BBF;
 }
 
-.section2-list1-item-h3 {
+.section-two-list-item-h3 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -89,18 +89,18 @@ body {
     color: #2e2f42;
 }
 
-.section2-list1-item-p {
+.section-two-list-item-p {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
 
-.section3 {
+.section-three {
     color: #F4F4FD;
 }
 
-.section3-h2 {
+.section-three-title {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -109,11 +109,11 @@ body {
     color: #2e2f42;
 }
 
-.section3-list-item1 {
+.section-three-list-item {
     color: #FFFFFF;
 }
 
-.section3-list-item1-h3 {
+.section-three-list-item-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -121,14 +121,14 @@ body {
     color: #2e2f42;
 }
 
-.section3-list-item1-p {
+.section-three-list-item-p {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
 
-.section4-h2 {
+.section-four-title {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -137,7 +137,7 @@ body {
     color: #2e2f42;
 }
 
-.section4-list-item1-h3 {
+.section-four-list-item-ltitle {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -145,7 +145,7 @@ body {
     color: #2e2f42;
 }
 
-.section4-list-item1-p {
+.section-four-list-item-p {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
