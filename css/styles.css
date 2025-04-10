@@ -49,3 +49,34 @@ body {
 .header-adrs {
     font-style: normal;
 }
+
+.header-adrs-list-item1 {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.header-adrs-list-item1:hover {
+    color: #404bbf;
+}
+
+.header-adrs-list-item1:focus {
+    color: #404bbf;
+}
+
+.header-adrs-list-item2 {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.header-adrs-list-item2:hover {
+    color: #404bbf;
+}
+
+.header-adrs-list-item2:focus {
+    color: #404bbf;
+}
+
