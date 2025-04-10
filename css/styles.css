@@ -30,21 +30,6 @@ body {
     color: #404bbf;
 }
 
-.header-nav-list2 {
-        font-weight: 500;
-            font-size: 16px;
-            line-height: 1.5;
-            letter-spacing: 0.02em;
-            color: #2e2f42;
-}
-
-.header-nav-list3 {
-            font-weight: 500;
-                font-size: 16px;
-                line-height: 1.5;
-                letter-spacing: 0.02em;
-                color: #2e2f42;
-}
 
 .header-adrs {
     font-style: normal;
@@ -62,21 +47,6 @@ body {
 }
 
 .header-adrs-list-item1:focus {
-    color: #404bbf;
-}
-
-.header-adrs-list-item2 {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-
-.header-adrs-list-item2:hover {
-    color: #404bbf;
-}
-
-.header-adrs-list-item2:focus {
     color: #404bbf;
 }
 
