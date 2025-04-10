@@ -51,10 +51,10 @@ body {
 }
 
 .section-one {
-    color: #2e2f42;
+    background-color: #2e2f42;
 }
 
-.section-one-h1 {
+.section-one-title {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -74,14 +74,14 @@ body {
 }
 
 .section-one-button:hover {
-    color: #404BBF;
+    background-color:  #404BBF;
 }
 
 .section-one-button:focus {
-    color: #404BBF;
+    background-color:  #404BBF;
 }
 
-.section-two-list-item-h3 {
+.section-two-list-item-ltitle {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -97,7 +97,7 @@ body {
 }
 
 .section-three {
-    color: #F4F4FD;
+    background-color:  #F4F4FD;
 }
 
 .section-three-title {
@@ -110,7 +110,7 @@ body {
 }
 
 .section-three-list-item {
-    color: #FFFFFF;
+    background-color:  #FFFFFF;
 }
 
 .section-three-list-item-title {
