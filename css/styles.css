@@ -4,3 +4,15 @@ body {
     font-family: "Roboto", sans-serif; 
 }
 
+.logo {
+    font-family: "Raleway"; sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+.logo-scnd {
+    color: #2e2f42;
+}
