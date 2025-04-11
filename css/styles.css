@@ -1,3 +1,12 @@
+ul, ol {
+    kist-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+
 body {
     background-color: #FFFFFF;
     color: #434455;
